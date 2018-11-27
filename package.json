@@ -1,0 +1,21 @@
+{
+  "name": "express-pug-example",
+  "version": "1.0.0",
+  "description": "Example using express and Pug template",
+  "main": "index.js",
+  "repository": "https://github.com/edgarberlinck/express-pug-example.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Edgar Muniz Berlinck <edgar.vv@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "hide-powered-by": "^1.0.0",
+    "pug": "^2.0.3"
+  }
+}
