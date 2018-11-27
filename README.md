@@ -6,10 +6,12 @@ Este exemplo mostra como trabalhar com templates [Pug](https://pugjs.org) em uma
 
 ### Recomenda-se usar o yarn.
 > yarn
+
 > yarn start
 
 ### Mas se quiser usar o npm
 > npm install
+
 > npm start
 
 ### Testando
